@@ -141,7 +141,7 @@ if __name__=='__main__':
         brands=['Abus', 'OnGuard', 'Kryptonite', 'Magnum', 'Hiplok', 'Zefal', 'Bontrager', 'Giant', 'RWR', 'Trelock', 'AXA', 'Shimano', 'Knog', 'M-Wave', 'OXC', 'Orlieb', 'ProX', 'Scicon'],
         main_category='zapięcia',
         main_subcategory='zapięcia',
-        output_filename='../data/zapięcia.csv',
+        output_filename='data/zapięcia.csv',
         pref='LOC'
     )
 
@@ -150,7 +150,7 @@ if __name__=='__main__':
         brands=['Lezyne','Knog','CatEye','MagicShine','Blackburn','Bontrager','Infini','Trek','Giant','ProX','Specialized','Garmin','Topeak','AXA','RWR','Zefal','Sigma','Woom','Electra','Herrmans','Author','Cannondale','K-Edge','Kryptonite','Ortlieb','SKS Germany','Saks','Wahoo'],
         main_category='oświetlenie',
         main_subcategory='oświetlenie',
-        output_filename='../data/lampki.csv',
+        output_filename='data/lampki.csv',
         pref='LIG'
     )
 
@@ -159,7 +159,7 @@ if __name__=='__main__':
         brands=['Topeak','Park Tool','Lezyne','Weldtite','PRO','Crank Brothers','Bontrager','Finish Line','SKS Germany','Zefal','Rock Shox','Trek','Muc-Off','Accent','Blackburn','RWR','Cannondale','Giant','ProX','Shimano','Unior','Assos','Atran Velo','CN Spoke','Elite','Pirelli','Rohloff','Author','BBB Cycling','Komon Bikes','Kryptonite','Morgan Blue','Motorex','OXC','Peaty\'s','Restrap','SRAM','Scicon'],
         main_category='narzędzia',
         main_subcategory='narzędzia',
-        output_filename='../data/narzędzia.csv',
+        output_filename='data/narzędzia.csv',
         pref='TOOL'
     )
 
@@ -168,7 +168,7 @@ if __name__=='__main__':
         brands=['Ortlieb', 'Basil', 'Extrawheel', 'Bontrager', 'Restrap', 'Topeak', 'Shimano', 'Trek', 'Cannondale', 'Diamant', 'Giant', 'ProX', 'SKS Germany', 'Thule', 'Zefal'],
         main_category='sakwa',
         main_subcategory='sakwa',
-        output_filename='../data/sakwy.csv',
+        output_filename='data/sakwy.csv',
         pref='SAK'
     )
 
@@ -177,7 +177,7 @@ if __name__=='__main__':
         brands=['Abus', 'Giro', 'FOX', 'MET', 'Bontrager', 'Troy Lee Designs (TLD)', 'HJC', 'Specialized', 'Endura', 'Trek', 'Electra', 'KASK', 'Giant', 'Bell', 'Fizik', 'ProX', 'Woom', 'Assos', 'Shimano', 'Velosock'],
         main_category='kaski',
         main_subcategory='kaski',
-        output_filename='../data/kaski.csv',
+        output_filename='data/kaski.csv',
         pref='HEL'
     )
 
@@ -186,6 +186,6 @@ if __name__=='__main__':
         brands=['FOX', 'Troy Lee Designs (TLD)', 'Giro', 'Specialized', 'Endura', 'Assos', 'Bontrager', 'Trek', 'Giant', 'Rapha', 'Momum', 'Woom', 'Ergon'],
         main_category='rękawiczki',
         main_subcategory='rękawiczki',
-        output_filename='../data/rękawiczki.csv',
+        output_filename='data/rękawiczki.csv',
         pref='GLOV'
     )

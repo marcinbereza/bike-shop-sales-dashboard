@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import csv, time, re
 
 
-def set_columns_name(header:list = None, csv_filename:str = '../data/bikes.csv'):
+def set_columns_name(header:list = None, csv_filename:str = 'data/bikes.csv'):
     if not header: header = ['product_id', 'SKU', 'Category', 'Subcategory', 'Brand', 'Model', 'Regular_Price', 'Discount_Price', '30Day_Price', 'Image_URL']
 
     with open(csv_filename, 'w', newline='', encoding='utf-8-sig') as f:
@@ -17,7 +17,7 @@ def set_columns_name(header:list = None, csv_filename:str = '../data/bikes.csv')
         writer.writerow(header)
 
 
-def save_csv(parsed_data, page_counter, csv_filename:str = '../data/bikes.csv'):
+def save_csv(parsed_data, page_counter, csv_filename:str = 'data/bikes.csv'):
     with open(csv_filename, 'a', newline='', encoding='utf-8-sig') as f:
         writer = csv.writer(f)
         writer.writerows(parsed_data)

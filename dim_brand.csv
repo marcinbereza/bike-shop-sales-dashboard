@@ -1,0 +1,93 @@
+brand_id,brand_name,company,country,website
+PROD1000,AXA,AXA,Netherlands,axa@example.com
+PROD1001,Abus,Abus,Germany,abus@example.com
+PROD1002,Velo,Accent,Poland,accent@example.com
+PROD1003,Assos,Assos,Switzerland,assos@example.com
+PROD1004,Atran Velo,Atran Velo,Sweden,atranvelo@example.com
+PROD1005,Velo,Author,Poland,author@example.com
+PROD1006,BBB Cycling,BBB Cycling,Netherlands,bbbcycling@example.com
+PROD1007,Basil,Basil,Netherlands,basil@example.com
+PROD1008,Bell,Bell,USA,bell@example.com
+PROD1009,Blackburn,Blackburn,USA,blackburn@example.com
+PROD1010,Trek,Bontrager,USA,bontrager@example.com
+PROD1011,CN Spoke,CN Spoke,Taiwan,cnspoke@example.com
+PROD1012,Cannondale,Cannondale,USA,cannondale@example.com
+PROD1013,CatEye,CatEye,Japan,cateye@example.com
+PROD1014,Crank Brothers,Crank Brothers,USA,crankbrothers@example.com
+PROD1015,Creme,Creme,Poland,creme@example.com
+PROD1016,Velo,Dartmoor,Poland,dartmoor@example.com
+PROD1017,Trek,Diamant,USA,diamant@example.com
+PROD1018,Trek,Electra,USA,electra@example.com
+PROD1019,Elite,Elite,Italy,elite@example.com
+PROD1020,Endura,Endura,Scotland,endura@example.com
+PROD1021,Ergon,Ergon,German,ergon@example.com
+PROD1022,Extrawheel,Extrawheel,Poland,extrawheel@example.com
+PROD1023,FOX,FOX,USA,fox@example.com
+PROD1024,Factor,Factor,UK,factor@example.com
+PROD1025,Finish Line,Finish Line,USA,finishline@example.com
+PROD1026,Fizik,Fizik,Italy,fizik@example.com
+PROD1027,GT,GT,USA,gt@example.com
+PROD1028,Garmin,Garmin,USA,garmin@example.com
+PROD1029,Giant,Giant,Taiwan,giant@example.com
+PROD1030,Giro,Giro,USA,giro@example.com
+PROD1031,HJC,HJC,Korean,hjc@example.com
+PROD1032,Herrmans,Herrmans,Finland,herrmans@example.com
+PROD1033,Hiplok,Hiplok,UK,hiplok@example.com
+PROD1034,Infini,Infini,Taiwan,infini@example.com
+PROD1035,K-Edge,K-Edge,USA,k-edge@example.com
+PROD1036,KASK,KASK,Italy,kask@example.com
+PROD1037,Knog,Knog,Austria,knog@example.com
+PROD1038,Komon Bikes,Komon Bikes,Poland,komonbikes@example.com
+PROD1039,Kross,Kross,Poland,kross@example.com
+PROD1040,Kryptonite,Kryptonite,Germany,kryptonite@example.com
+PROD1041,Lezyne,Lezyne,USA,lezyne@example.com
+PROD1042,M-Wave,M-Wave,German,m-wave@example.com
+PROD1043,MET,MET,Italy,met@example.com
+PROD1044,MagicShine,MagicShine,China,magicshine@example.com
+PROD1045,Magnum,Magnum,USA,magnum@example.com
+PROD1046,Marin,Marin,USA,marin@example.com
+PROD1047,Momum,Momum,Spain,momum@example.com
+PROD1048,Mongoose,Mongoose,USA,mongoose@example.com
+PROD1049,Morgan Blue,Morgan Blue,Belgium,morganblue@example.com
+PROD1050,Motorex,Motorex,France,motorex@example.com
+PROD1051,Muc-Off,Muc-Off,UK,muc-off@example.com
+PROD1052,NS Bikes,NS Bikes,Poland,nsbikes@example.com
+PROD1053,OXC,OXC,UK,oxc@example.com
+PROD1054,NS Bikes,Octane One,Poland,octaneone@example.com
+PROD1055,OnGuard,OnGuard,USA,onguard@example.com
+PROD1056,Orbea,Orbea,Spain,orbea@example.com
+PROD1057,Orlieb,Orlieb,Germany,orlieb@example.com
+PROD1058,Ortlieb,Ortlieb,Germany,ortlieb@example.com
+PROD1059,PRO,PRO,Italy,pro@example.com
+PROD1060,Park Tool,Park Tool,USA,parktool@example.com
+PROD1061,Peaty's,Peaty's,UK,peaty's@example.com
+PROD1062,Pinarello,Pinarello,Italy,pinarello@example.com
+PROD1063,Pirelli,Pirelli,Italy,pirelli@example.com
+PROD1064,Polygon,Polygon,Indonesia,polygon@example.com
+PROD1065,ProX,ProX,Netherlands,prox@example.com
+PROD1066,Puky,Puky,Germany,puky@example.com
+PROD1067,RWR,RWR,USA,rwr@example.com
+PROD1068,Rapha,Rapha,UK,rapha@example.com
+PROD1069,Restrap,Restrap,UK,restrap@example.com
+PROD1070,SRAM,Rock Shox,USA,rockshox@example.com
+PROD1071,Rohloff,Rohloff,Germany,rohloff@example.com
+PROD1072,NS Bikes,Rondo,Poland,rondo@example.com
+PROD1073,SKS Germany,SKS Germany,Germany,sksgermany@example.com
+PROD1074,SRAM,SRAM,USA,sram@example.com
+PROD1075,Saks,Saks,Germany,saks@example.com
+PROD1076,Scicon,Scicon,Italy,scicon@example.com
+PROD1077,Shimano,Shimano,Japan,shimano@example.com
+PROD1078,Sigma,Sigma,Germany,sigma@example.com
+PROD1079,Specialized,Specialized,USA,specialized@example.com
+PROD1080,Thule,Thule,Sweden,thule@example.com
+PROD1081,Topeak,Topeak,Taiwan,topeak@example.com
+PROD1082,Trek,Trek,USA,trek@example.com
+PROD1083,Trelock,Trelock,Germany,trelock@example.com
+PROD1084,Troy Lee Designs (TLD),Troy Lee Designs (TLD),USA,troyleedesigns(tld)@example.com
+PROD1085,Unibike,Unibike,Poland,unibike@example.com
+PROD1086,Unior,Unior,Slovenia,unior@example.com
+PROD1087,Velosock,Velosock,Latvia,velosock@example.com
+PROD1088,Wahoo,Wahoo,USA,wahoo@example.com
+PROD1089,Weldtite,Weldtite,UK,weldtite@example.com
+PROD1090,Woom,Woom,Austria,woom@example.com
+PROD1091,Zefal,Zefal,France,zefal@example.com

@@ -1,0 +1,315 @@
+﻿Powiat,Województwo,Liczba mieszkańców,Powierzchnia,Gęstość zaludnienia,Stopień ubarnizacji,Starosta,Tablice rejestracyjne,Adres starostwa powiatowego
+dolnośląskie,bolesławiecki,87 473,1 304 km2,67 osób/km2,"48,7%",Karol Stasik,"pl. Marsz. Józefa Piłsudskiego 2, 59-700 Bolesławiec",DBL
+dolnośląskie,dzierżoniowski,94 304,479 km2,197 osób/km2,"81,4%",Janusz Guzdek,"Rynek 27, 58-200 Dzierżoniów",DDZ
+dolnośląskie,głogowski,84 755,443 km2,191 osób/km2,"79,2%",Jarosław Dudkowiak,"ul. Sikorskiego 21, 67-200 Głogów",DGL
+dolnośląskie,górowski,32 250,738 km2,44 osób/km2,"42,2%",Kazimierz Bogucki,"ul. Mickiewicza 1, 56-200 Góra",DGR
+dolnośląskie,jaworski,47 039,582 km2,81 osób/km2,"57,2%",Stanisław Laskowski,"ul. Wrocławska 26, 59-400 Jawor",DJA
+dolnośląskie,jeleniogórski,60 232,627 km2,96 osób/km2,"48,1%",Anna Konieczyńska,"ul. Kochanowskiego 10, 58-500 Jelenia Góra",DJE
+dolnośląskie,kamiennogórski,40 040,396 km2,101 osób/km2,"60,4%",Jarosław Gęborys,"ul. Władysława Broniewskiego 15, 58-400 Kamienna Góra",DKA
+dolnośląskie,kłodzki,146 041,1 643 km2,89 osób/km2,"65,1%",Maciej Awiżeń,"ul. Okrzei 1, 57-300 Kłodzko",DKL
+dolnośląskie,legnicki,55 068,744 km2,74 osób/km2,"34,3%",Adam Babuśka,"pl. Słowiański 1, 59-220 Legnica",DLE
+dolnośląskie,lubański,53 274,428 km2,124 osób/km2,"56,1%",Walery Czarnecki,"ul. Mickiewicza 2, 59-800 Lubań",DLB
+dolnośląskie,lubiński,105 339,712 km2,148 osób/km2,"78,7%",Adam Myrda,"ul. Jana Kilińskiego 12b, 59-300 Lubin",DLU
+dolnośląskie,lwówecki,45 040,710 km2,63 osób/km2,"51,4%",Marcin Fluder,"al. Wojska Polskiego 25a, 59-600 Lwówek Śląski",DLW
+dolnośląskie,milicki,36 648,715 km2,51 osób/km2,"32,8%",Krzysztof Osmelak,"ul. Wojska Polskiego 38, 56-300 Milicz",DMI
+dolnośląskie,oławski,76 671,524 km2,146 osób/km2,"63,6%",Zdzisław Brezdeń,"ul. 3 Maja 1, 55-200 Oława",DOA
+dolnośląskie,oleśnicki,106 999,1 049 km2,102 osób/km2,"60,1%",Wojciech Kociński,"ul. Słowackiego 10, 56-400 Oleśnica",DOL
+dolnośląskie,polkowicki,62 686,779 km2,80 osób/km2,"59,6%",Marek Tramś,"ul. Górna 2, 59-100 Polkowice",DPL
+dolnośląskie,średzki,59 482,704 km2,84 osób/km2,"17,8%",Sebastian Burdzy,"ul. Wrocławska 2, 55-300 Środa Śląska",DSR
+dolnośląskie,strzeliński,42 925,622 km2,69 osób/km2,"33,5%",Marek Warcholiński,"ul. Kamienna 10, 57-100 Strzelin",DST
+dolnośląskie,świdnicki,154 749,741 km2,209 osób/km2,"70,1%",Piotr Fedorowicz,"ul. M. Skłodowskiej-Curie 7, 58-100 Świdnica",DSW
+dolnośląskie,trzebnicki,87 738,1 025 km2,86 osób/km2,"38,2%",Waldemar Wysocki,"ul. Ks. Bochenka 6, 55-100 Trzebnica",DTR
+dolnośląskie,wałbrzyski,52 524,430 km2,122 osób/km2,Jacek Cichura,"Al. Wyzwolenia 24, 58-300 Wałbrzych",DBA
+dolnośląskie,wołowski,45 281,675 km2,67 osób/km2,"52,8%",Janusz Dziarski,"pl. Piastowski 2, 56-100 Wołów",DWL
+dolnośląskie,wrocławski,189 571,1 118 km2,170 osób/km2,"14,9%",Roman Potocki,"ul. Tadeusza Kościuszki 131, 50-440 Wrocław",DWR
+dolnośląskie,ząbkowicki,60 264,802 km2,75 osób/km2,"45,1%",Roman Fester,"ul. Sienkiewicza 11, 57-200 Ząbkowice Śląskie",DZA
+dolnośląskie,zgorzelecki,84 723,839 km2,101 osób/km2,"68,3%",Urszula Ciupak,"ul. Bohaterów II Armii WP 8, 59-900 Zgorzelec",DZG
+dolnośląskie,złotoryjski,40 435,576 km2,70 osób/km2,"50,1%",Ryszard Raszkiewicz,"pl. Niepodległości 8, 59-500 Złotoryja",DZL
+kujawsko-pomorskie,aleksandrowski,54 549,475 km2,115 osób/km2,"45,3%",Dariusz Wochna,"ul. Słowackiego 8, 87-700 Aleksandrów Kujawski",CAL
+kujawsko-pomorskie,brodnicki,78 784,1 040 km2,76 osób/km2,"43,4%",Piotr Boiński,"ul. Kamionka 18, 87-300 Brodnica",CBR
+kujawsko-pomorskie,bydgoski,122 077,1 394 km2,88 osób/km2,"27,8%",Wojciech Porzych,"ul. S. Konarskiego 1/3, 85-066 Bydgoszcz",CBY
+kujawsko-pomorskie,chełmiński,51 250,527 km2,97 osób/km2,"39,7%",Wojciech Bińczyk,CCH
+kujawsko-pomorskie,golubsko-dobrzyński,44 455,613 km2,73 osób/km2,"38,0%", Franciszek Gutowski,"Plac Tysiąclecia 25, 87-400 Golub-Dobrzyń",CGD
+kujawsko-pomorskie,grudziądzki,40 228,728 km2,55 osób/km2,"13,6%",Edmund Korgol,"ul. Małomłyńska 1, 86-300 Grudziądz",CGR
+kujawsko-pomorskie,inowrocławski,156 838,1 225 km2,128 osób/km2,"65,7%",Wiesława Pawłowska,"ul. Roosevelta 36/38, 88-100 Inowrocław",CIN
+kujawsko-pomorskie,lipnowski,64 975,1 016 km2,64 osób/km2,"31,2%",Krzysztof Baranowski,"ul. Sierakowskiego 10b, 87-600 Lipno",CLI
+kujawsko-pomorskie,mogileński,45 080,675 km2,67 osób/km2,"39,5%",Tomasz Barczak,"ul. Narutowicza 1, 88-300 Mogilno",CMG
+kujawsko-pomorskie,nakielski,85 617,1 120 km2,76 osób/km2,"44,7%",Tomasz Miłowski,"ul. Dąbrowskiego 54, 89-100 Nakło nad Notecią",CNA
+kujawsko-pomorskie,radziejowski,39 578,607 km2,65 osób/km2,"24,2%",Jarosław Kołtuniak,"ul. T. Kościuszki 17, 88-200 Radziejów",CRA
+kujawsko-pomorskie,rypiński,42 981,586 km2,73 osób/km2,"37,3%",Zbigniew Zgórzyński,"ul. Warszawska 38, 87-500 Rypin",CRY
+kujawsko-pomorskie,sępoleński,40 639,791 km2,51 osób/km2,"42,3%",Jarosław Tadych,"ul. Kościuszki 11, 89-400 Sępólno Krajeńskie",CSE
+kujawsko-pomorskie,świecki,98 104,1 474 km2,67 osób/km2,"33,0%",Franciszek Koszowski,"ul. Gen. Józefa Hallera 9, 86-100 Świecie",CSW
+kujawsko-pomorskie,toruński,110 689,1 230 km2,90 osób/km2,"17,6%",Marek Olszewski,"ul Towarowa 4-6, 87-100 Toruń",CTR
+kujawsko-pomorskie,tucholski,48 074,1 075 km2,45 osób/km2,"29,7%",Michał Mróz,"ul. Pocztowa 7, 89-500 Tuchola",CTU
+kujawsko-pomorskie,wąbrzeski,33 839,502 km2,67 osób/km2,"39,8%",Krzysztof Maćkiewicz,"ul. Wolności 44, 87-200 Wąbrzeźno",CWA
+kujawsko-pomorskie,włocławski,85 074,1 473 km2,58 osób/km2,"20,3%",Kazimierz Kaca,"ul. Cyganka 28, 87-800 Włocławek",CWL
+kujawsko-pomorskie,żniński,69 601,985 km2,71 osób/km2,"43,7%",Zbigniew Jaszczuk,"ul. Potockiego 1, 88-400 Żnin",CZN
+łódzkie,bełchatowski,108 311,968 km2,112 osób/km2,"61,7%",Waldemar Wyczachowski,"ul. Pabianicka 17/19, 97-400 Bełchatów",EBE
+łódzkie,brzeziński,30 102,359 km2,84 osób/km2,"40,2%",Renata Kobiera,"ul. Sienkiewicza 16, 95-060 Brzeziny",EBR
+łódzkie,kutnowski,90 128,887 km2,102 osób/km2,"58,7%",Krzysztof Debich,"ul. Kościuszki 16, 99-300 Kutno",EKU
+łódzkie,łaski,48 622,618 km2,79 osób/km2,"36,7%",Teresa Wesołowska,"ul. Południowa 1, 98-100 Łask",ELA
+łódzkie,łęczycki,46 452,773 km2,60 osób/km2,"29,0%",Wojciech Zdziarski,"pl. Kościuszki 1, 99-100 Łęczyca",ELE
+łódzkie,łódzkiwschodni,75 008,500 km2,150 osób/km2,"36,5%",Andrzej Opala,ELW
+łódzkie,łowicki,73 717,988 km2,75 osób/km2,"36,6%",Marcin Kosiorek,"ul. Stanisławskiego 30, 99-400 Łowicz",ELC
+łódzkie,opoczyński,71 452,1 040 km2,69 osób/km2,"34,1%",Józef Róg,"ul. Kwiatowa 1a, 26-300 Opoczno",EOP
+łódzkie,pabianicki,119 037,492 km2,242 osób/km2,"73,4%",Krzysztof Habura,"ul. Piłsudskiego 2, 95-200 Pabianice",EPA
+łódzkie,pajęczański,48 345,804 km2,60 osób/km2,"24,3%",Jan Ryś,"ul. Kościuszki 76, 98-330 Pajęczno",EPJ
+łódzkie,piotrkowski,89 945,1 429 km2,63 osób/km2,"7,0%",Stanisław Cubała,"ul. 3 Maja 33, 97-300 Piotrków Trybunalski",EPI
+łódzkie,poddębicki,39 267,881 km2,45 osób/km2,"26,0%",Ryszard Rytter,"ul. Łęczycka 16, 99-200 Poddębice",EPD
+łódzkie,radomszczański,106 173,1 443 km2,74 osób/km2,"47,0%",Andrzej Plutecki,"ul. Leszka Czarnego 22, 97-500 Radomsko",ERA
+łódzkie,rawski,45 925,646 km2,71 osób/km2,"42,4%",Józef Matysiak,"pl. Wolności 1, 96-200 Rawa Mazowiecka",ERW
+łódzkie,sieradzki,111 022,1 491 km2,74 osób/km2,"43,9%",Mariusz Bądzior,"pl. Wojewódzki 3, 98-200 Sieradz",ESI
+łódzkie,skierniewicki,37 733,753 km2,50 osób/km2,Mirosław Belina,"ul. Konstytucji 3 Maja 6, 96-100 Skierniewice",ESK
+łódzkie,tomaszowski,110 086,1 025 km2,107 osób/km2,"54,9%",Mirosław Kukliński,"ul. Św. Antoniego 26, 97-200 Tomaszów Mazowiecki",ETM
+łódzkie,wieluński,72 246,926 km2,78 osób/km2,"30,7%",Marek Kieler,"pl. Kazimierza Wielkiego 2, 98-300 Wieluń",EWI
+łódzkie,wieruszowski,41 417,577 km2,72 osób/km2,"20,4%",Andrzej Szymanek,"Rynek 1/7, 98-400 Wieruszów",EWE
+łódzkie,zduńskowolski,63 059,369 km2,171 osób/km2,"68,1%",Wojciech Rychlik,"ul. Złotnickiego 25, 98-220 Zduńska Wola",EZD
+łódzkie,zgierski,166 190,855 km2,194 osób/km2,"73,2%",Bogdan Jarota,"ul. Sadowa 6a, 95-100 Zgierz",EZG
+lubelskie,bialski,109 107,2 754 km2,40 osób/km2,"20,4%",Mariusz Filipkiuk,"ul. Brzeska 41, 21-500 Biała Podlaska",LBI
+lubelskie,biłgorajski,99 259,1 681 km2,59 osób/km2,"32,8%",Kazimierz Pasterak,"ul. T. Kościuszki 87, 23-400 Biłgoraj",LBL
+lubelskie,chełmski,76 872,1 886 km2,41 osób/km2,"6,2%",Piotr Deniszczuk,"pl. Niepodległości 1, 22-100 Chełm",LCH
+lubelskie,hrubieszowski,60 968,1 268 km2,48 osób/km2,"26,9%",Józef Kuropatwa,"ul. Narutowicza 34, 22-500 Hrubieszów",LHR
+lubelskie,janowski,44 615,875 km2,51 osób/km2,"24,7%",Jerzy Bielecki,"ul. J. Zamoyskiego 59, 23-300 Janów Lubelski",LJA
+lubelskie,kraśnicki,93 383,1 005 km2,93 osób/km2,"38,8%",Andrzej Maj,"ul. Aleja Niepodległości 20, 23-210 Kraśnik",LKR
+lubelskie,krasnostawski,61 589,1 031 km2,60 osób/km2,"27,4%",Janusz Szpak,"ul. Sobieskiego 3, 22-300 Krasnystaw",LKS
+lubelskie,łęczyński,56 925,637 km2,89 osób/km2,"38,1%",Roman Cholewa,"al. Jana Pawła II 95a, 21-010 Łęczna",LLE
+lubelskie,lubartowski,87 034,1 289 km2,68 osób/km2,"31,6%",Ewa Zybała,"ul. Słowackiego 8, 21-100 Lubartów",LLB
+lubelskie,lubelski,157 154,1 680 km2,94 osób/km2,Paweł Pikula,"ul. Spokojna 9, 20-074 Lublin",LUB
+lubelskie,łukowski,105 515,1 394 km2,76 osób/km2,"30,7%",Janusz Kozioł,"ul. Piłsudskiego 17, 21-400 Łuków",LLU
+lubelskie,opolski,58 044,810 km2,72 osób/km2,"30,1%",Zenon Rodzik,"ul. Lubelska 4, 24-300 Opole Lubelskie",LOP
+lubelskie,parczewski,33 810,952 km2,36 osób/km2,"28,1%",Jerzy Maśluch,"ul. Warszawska 24, 21-200 Parczew",LPA
+lubelskie,puławski,111 163,934 km2,119 osób/km2,"49,5%",Witold Popiołek,"al. Królewska 19, 24-100 Puławy",LPU
+lubelskie,radzyński,57 581,965 km2,60 osób/km2,"26,4%",Lucjan Kotwica,"pl. Potockiego 1, 21-300 Radzyń Podlaski",LRA
+lubelskie,rycki,54 852,615 km2,89 osób/km2,"47,3%",Stanisław Jagiełło,"ul. Wyczółkowskiego 10a, 08-500 Ryki",LRY
+lubelskie,świdnicki,70 783,468 km2,151 osób/km2,"55,2%",Dariusz Kołodziejczyk,"ul. Niepodległości 13, 21-047 Świdnik",LSW
+lubelskie,tomaszowski,80 828,1 489 km2,54 osób/km2,"25,3%",Jan Kowalczyk,"ul. Lwowska 68, 22-600 Tomaszów Lubelski",LTM
+lubelskie,włodawski,37 484,1 256 km2,30 osób/km2,"34,1%",Andrzej Romańczuk,"al. J. Piłsudskiego 24, 22-200 Włodawa",LWL
+lubelskie,zamojski,104 327,1 870 km2,56 osób/km2,"10,6%",Henryk Matej,"ul. Przemysłowa 4, 22-400 Zamość",LZA
+lubuskie,gorzowski,72 710,1 214 km2,60 osób/km2,"37,9%",Małgorzata Domagała,"ul. J. Pankiewicza 5-7, 66-400 Gorzów Wielkopolski",FGW
+lubuskie,krośnieński,54 130,1 391 km2,39 osób/km2,"53,0%",Mirosław Głaz,"ul. Piastów 10b, 66-600 Krosno Odrzańskie",FKR
+lubuskie,międzyrzecki,56 560,1 388 km2,41 osób/km2,"52,6%",Grzegorz Gabryelski,"ul. Przemysłowa 2, 66-300 Międzyrzecz",FMI
+lubuskie,nowosolski,85 144,771 km2,110 osób/km2,"66,2%",Waldemar Wrześniak,"ul. Moniuszki 3b, 67-100 Nowa Sól",FNW
+lubuskie,słubicki,46 617,999 km2,47 osób/km2,"64,3%",Marcin Jabłoński,"ul. Piłsudskiego 20, 69-100 Słubice",FSL
+lubuskie,strzelecko-drezdenecki,48 145,1 248 km2,39 osób/km2,"47,3%",Edward Tyranowicz,"ul. Ks. St. Wyszyńskiego 7, 66-500 Strzelce Krajeńskie",FSD
+lubuskie,sulęciński,34 601,1 178 km2,29 osób/km2,"40,5%",Adam Basiński,"ul. Lipowa 18/18a, 69-200 Sulęcin",FSU
+lubuskie,świebodziński,55 249,937 km2,59 osób/km2,"47,9%",Zbigniew Szumski,"ul. Kolejowa 2, 66-200 Świebodzin",FSW
+lubuskie,wschowski,38 318,624 km2,61 osób/km2,"49,6%",Marek Boryczka,"plac Kosynierów 1c, 67-400 Wschowa",FWS
+lubuskie,żagański,77 316,1 132 km2,68 osób/km2,"61,1%",Henryk Janowicz,"ul. Dworcowa 39, 68-100 Żagań",FZG
+lubuskie,żarski,94 508,1 393 km2,68 osób/km2,"61,6%",Janusz Dudojć,"al. Jana Pawła II 5, 68-200 Żary",FZA
+lubuskie,zielonogórski,75 417,1 350 km2,56 osób/km2,"39,3%",Dariusz Wróblewski,"ul. Podgórna 5, 65-057 Zielona Góra",FZI
+małopolskie,bocheński,106 911,649 km2,165 osób/km2,"32,2%",Ludwik Węgrzyn,"ul. Kazimierza Wielkiego 31, 32-700 Bochnia",KBC
+małopolskie,brzeski,91 497,591 km2,155 osób/km2,"21,3%",Andrzej Potępa,"ul. Głowackiego 51, 32-800 Brzesko",KBR
+małopolskie,chrzanowski,118 194,370 km2,319 osób/km2,"62,9%",Janusz Szczęśniak,"ul. Partyzantów 2, 32-500 Chrzanów",KCH
+małopolskie,dąbrowski,57 390,530 km2,108 osób/km2,"19,3%",Tadeusz Kwiatkowski,"ul. Berka Joselewicza 5, 33-200 Dąbrowa Tarnowska",KDA
+małopolskie,gorlicki,104 927,966 km2,109 osób/km2,"31,3%",Karol Górski,"ul. Biecka 3, 38-300 Gorlice",KGR
+małopolskie,krakowski,303 577,1 231 km2,247 osób/km2,"18,1%",Józef Krzyworzeka,"al. Słowackiego 20, 30-037 Kraków",KRA
+małopolskie,limanowski,131 765,951 km2,139 osób/km2,"18,2%",Jan Puchała,"ul. Józefa Marka 9, 34-600 Limanowa",KLI
+małopolskie,miechowski,46 523,676 km2,69 osób/km2,"23,2%",Marian Gamrat,"ul. Racławicka 12, 32-200 Miechów",KMI
+małopolskie,myślenicki,130 028,673 km2,193 osób/km2,"26,1%",Józef Tomal,"ul. M. Reja 13, 32-400 Myślenice",KMY
+małopolskie,nowosądecki,215 039,1 550 km2,139 osób/km2,"19,0%",Marek Pławiak,"ul. Jagiellońska 33, 33-300 Nowy Sącz",KNS
+małopolskie,nowotarski,190 116,1 475 km2,129 osób/km2,"29,7%",Krzysztof Faber,"ul. Bolesława Wstydliwego 14, 34-400 Nowy Targ",KNT
+małopolskie,olkuski,105 385,618 km2,170 osób/km2,"50,2%",Paweł Piasny,"ul. Mickiewicza 2, 32-300 Olkusz",KOL
+małopolskie,oświęcimski,148 042,406 km2,365 osób/km2,"55,6%",Zbigniew Starzec,"ul. Wyspiańskiego 10, 32-602 Oświęcim",KOS
+małopolskie,proszowicki,41 940,415 km2,101 osób/km2,"14,2%",Grzegorz Pióro,"ul. 3 Maja 72, 32-100 Proszowice",KPR
+małopolskie,suski,82 738,686 km2,121 osób/km2,"25,2%",Józef Bałos,"ul. Mickiewicza 19, 34-200 Sucha Beskidzka",KSU
+małopolskie,tarnowski,197 235,1 412 km2,140 osób/km2,"8,3%",Roman Łucarz,"ul. Narutowicza 38, 33-100 Tarnów",KTA
+małopolskie,tatrzański,66 375,472 km2,141 osób/km2,"42,5%",Piotr Bąk,"ul. Ciągłówka 11, 34-500 Zakopane",KTT
+małopolskie,wadowicki,157 237,646 km2,243 osób/km2,"29,2%",Bartosz Kaliński,"ul. Batorego 2, 34-100 Wadowice",KWA
+małopolskie,wielicki,144 555,411 km2,352 osób/km2,"26,5%",Jacek Juszkiewicz,"ul. Dembowskiego 2, 32-020 Wieliczka",KWI
+mazowieckie,białobrzeski,32 432,639 km2,51 osób/km2,"24,3%",Andrzej Oziębło,"pl. Zygmunta Starego 9, 26-800 Białobrzegi",WBR
+mazowieckie,ciechanowski,84 917,1 060 km2,80 osób/km2,"53,9%",Sławomir Morawski,"ul. 17 Stycznia 7, 06-400 Ciechanów",WCI
+mazowieckie,garwoliński,105 349,1 285 km2,82 osób/km2,"27,3%",Marek Chciałowski,"ul. Staszica 15, 08-400 Garwolin",WG
+mazowieckie,gostyniński,41 969,615 km2,68 osób/km2,"41,2%",Tomasz Matuszewski,"ul. Dmowskiego 13, 09-500 Gostynin",WGS
+mazowieckie,grodziski,106 373,367 km2,290 osób/km2,"59,8%",Marek Wieżbicki,"ul. Kościuszki 30, 05-825 Grodzisk Mazowiecki",WGM
+mazowieckie,grójecki,96 857,1 268 km2,76 osób/km2,"34,2%",Marek Ścisłowski,"ul. Piłsudskiego 59, 05-600 Grójec",WGR
+mazowieckie,kozienicki,56 959,916 km2,62 osób/km2,"30,2%",Andrzej Jung,"ul. Kochanowskiego 28, 26-900 Kozienice",WKZ
+mazowieckie,legionowski,132 639,391 km2,339 osób/km2,"57,3%",Robert Wróbel,"ul. Gen. Wł. Sikorskiego 11, 05-119 Legionowo",WL
+mazowieckie,lipski,31 399,740 km2,42 osób/km2,"16,4%",Roman Ochyński,"Rynek 1, 27-300 Lipsko",WLI
+mazowieckie,łosicki,28 474,772 km2,37 osób/km2,"21,9%",Janusz Kobyliński,"ul. Narutowicza 6, 08-200 Łosice",WLS
+mazowieckie,makowski,41 479,1 065 km2,39 osób/km2,"27,1%",Zbigniew Deptuła,"Rynek 1, 06-200 Maków Mazowiecki",WMA
+mazowieckie,miński,159 589,1 164 km2,137 osób/km2,"44,3%",Antoni Tarczyński,"ul. Kościuszki 3, 05-300 Mińsk Mazowiecki","WM, WY...YY"
+mazowieckie,mławski,68 872,1 182 km2,58 osób/km2,"40,3%",Włodzimierz Wojnarowski,"ul. Reymonta 6, 06-500 Mława",WML
+mazowieckie,nowodworski,79 484,695 km2,114 osób/km2,"50,5%",Magdalena Biernacka,"ul. Paderewskiego 1b, 05-100 Nowy Dwór Mazowiecki",WND
+mazowieckie,ostrołęcki,87 450,2 094 km2,42 osób/km2,"3,6%",Stanisław Kubeł,"plac gen. Józefa Bema 5, 07-400 Ostrołęka",WOS
+mazowieckie,ostrowski,68 101,1 218 km2,56 osób/km2,"32,3%",Zbigniew Kamiński,"ul. 3 Maja 68, 07-300 Ostrów Mazowiecka",WOR
+mazowieckie,otwocki,126 754,616 km2,206 osób/km2,"61,8%",Mirosław Pszonka,"ul. Górna 13, 05-400 Otwock",WOT
+mazowieckie,piaseczyński,216 775,621 km2,349 osób/km2,"47,8%",Wojciech Jerzy Ołdakowski,"ul. Chyliczkowska 14, 05-500 Piaseczno",WPI
+mazowieckie,płocki,109 376,1 797 km2,61 osób/km2,"9,3%",Mariusz Bieniek,"ul. Bielska 59, 09-400 Płock",WPL
+mazowieckie,płoński,83 722,1 380 km2,61 osób/km2,"30,6%",Andrzej Stopla,"ul. Płocka 39, 09-100 Płońsk",WPN
+mazowieckie,pruszkowski,180 579,246 km2,733 osób/km2,"62,6%",Krzysztof Rymuza,"ul. Drzymały 30, 05-800 Pruszków","WPR, WPP, WPS"
+mazowieckie,przasnyski,48 821,1 219 km2,40 osób/km2,"37,4%",Zenon Szczepankowski,"ul. Św. Stanisława Kostki 5, 06-300 Przasnysz",WPZ
+mazowieckie,przysuski,38 450,801 km2,48 osób/km2,"14,1%",Marian Niemirski,"ul. Jana Pawła II 10, 26-400 Przysucha",WPY
+mazowieckie,pułtuski,50 250,827 km2,61 osób/km2,"37,5%",Jan Zalewski,"ul. Białowiejska 5, 06-100 Pułtusk",WPU
+mazowieckie,radomski,151 279,1 530 km2,99 osób/km2,"20,2%",Mirosław Ślifirczyk,"ul. Domagalskiego 7, 26-600 Radom",WRA
+mazowieckie,siedlecki,80 461,1 603 km2,50 osób/km2,"2,3%",Dariusz Stopa,"ul. , J. Piłsudskiego, 40, 08-110 Siedlce",WSI
+mazowieckie,sierpecki,48 035,852 km2,56 osób/km2,"34,7%",Jan Laskowski,"ul. Świętokrzyska 2a, 09-200 Sierpc",WSE
+mazowieckie,sochaczewski,83 057,735 km2,113 osób/km2,"45,8%",Jolanta Gonta,"ul.M.J.Piłsudskiego 65, 96-500 Sochaczew",WSC
+mazowieckie,sokołowski,49 800,1 131 km2,44 osób/km2,"35,8%",Leszek Iwaniuk,"ul. Wolności 23, 08-300 Sokołów Podlaski",WSK
+mazowieckie,szydłowiecki,37 358,452 km2,83 osób/km2,"30,2%",Włodzimierz Górlicki,"pl. Marii Konopnickiej 7, 26-500 Szydłowiec",WSZ
+mazowieckie,warszawskizachodni,136 132,534 km2,255 osób/km2,"36,0%",Jan Żychliński,"ul. Poznańska 129/133, 05-850 Ożarów Mazowiecki",WZ
+mazowieckie,węgrowski,61 713,1 221 km2,51 osób/km2,"27,8%",Krzysztof Fedorczyk,"ul. Przemysłowa 5, 07-100 Węgrów",WWE
+mazowieckie,wołomiński,277 102,954 km2,291 osób/km2,"66,6%",Adam Lubiak,"ul. Prądzyńskiego 3, 05-200 Wołomin","WWL, WV"
+mazowieckie,wyszkowski,73 341,876 km2,84 osób/km2,"37,7%",Bogdan Mirosław Pągowski,"al. Róż 2, 07-200 Wyszków",WWY
+mazowieckie,żuromiński,35 278,807 km2,44 osób/km2,"27,3%",Jerzy Rzymowski,"pl. Piłsudskiego 4, 09-300 Żuromin",WZU
+mazowieckie,zwoleński,34 179,573 km2,60 osób/km2,"22,0%",Waldemar Urbański,"ul. Jagiełły 4, 26-700 Zwoleń",WZW
+mazowieckie,żyrardowski,75 006,533 km2,141 osób/km2,"63,7%",Wojciech Szustakiewicz,"ul. Limanowskiego 45, 96-300 Żyrardów",WZY
+opolskie,brzeski,85 876,876 km2,98 osób/km2,"56,5%",Maciej Stefański,"ul. Robotnicza 20, 49-300 Brzeg",OB
+opolskie,głubczycki,42 392,673 km2,63 osób/km2,"45,8%",Józef Kozina,"ul. Kochanowskiego 15, 48-100 Głubczyce",OGL
+opolskie,kędzierzyńsko-kozielski,85 725,625 km2,137 osób/km2,"64,2%",Małgorzata Tudaj,"Plac Wolności 13, 47-220 Kędzierzyn-Koźle",OK
+opolskie,kluczborski,60 911,852 km2,71 osób/km2,"51,1%",Piotr Pośpiech,"ul. Katowicka 1, 46-200 Kluczbork",OKL
+opolskie,krapkowicki,59 414,442 km2,134 osób/km2,"55,1%",Maciej Sonik,"ul. Kilińskiego 1, 47-303 Krapkowice",OKR
+opolskie,namysłowski,41 931,748 km2,56 osób/km2,"37,7%",Andrzej Michta,"Plac Wolności 12A, 46-100 Namysłów",ONA
+opolskie,nyski,127 390,1 224 km2,104 osób/km2,"52,7%",Czesław Biłobran,"ul. Moniuszki 9-10, 48-300 Nysa",ONY
+opolskie,oleski,61 023,973 km2,63 osób/km2,"36,8%",Stanisław Belka,"ul. Pieloka 21, 46-300 Olesno",OOL
+opolskie,opolski,120 788,1 534 km2,79 osób/km2,"14,5%",Henryk Lakwa,"ul. 1 Maja 29, 45-068 Opole",OPO
+opolskie,prudnicki,51 171,572 km2,90 osób/km2,"52,8%",Radosław Roszkowski,"ul. Kościuszki 76, 48-200 Prudnik",OPR
+opolskie,strzelecki,70 916,744 km2,95 osób/km2,"45,2%",Józef Swaczyna,"ul. Jordanowska 2, 47-100 Strzelce Opolskie",OST
+podkarpackie,bieszczadzki,20 513,1 139 km2,18 osób/km2,"42,9%",Marek Andruch,"Bełska 22, 38-700 Ustrzyki Dolne",RBI
+podkarpackie,brzozowski,62 971,539 km2,117 osób/km2,"11,9%",Zygmunt Błaż,"ul. Armii Krajowej 1, 36-200 Brzozów",RBR
+podkarpackie,dębicki,132 320,777 km2,170 osób/km2,"39,0%",Andrzej Reguła,"ul. Parkowa 28, 39-200 Dębica",RDE
+podkarpackie,jarosławski,115 480,1 029 km2,112 osób/km2,"37,7%",Tadeusz Chrzan,"ul. Jana Pawła II 17, 37-500 Jarosław",RJA
+podkarpackie,jasielski,108 407,831 km2,130 osób/km2,"32,8%",Adam Pawluś,"Rynek 18, 38-200 Jasło",RJS
+podkarpackie,kolbuszowski,61 049,773 km2,79 osób/km2,"14,9%",Józef Kardyś,"ul. 11 Listopada 10, 36-100 Kolbuszowa",RKL
+podkarpackie,krośnieński,108 439,992 km2,109 osób/km2,"12,1%",Jan Juszczak,RKR
+podkarpackie,łańcucki,80 757,452 km2,179 osób/km2,"23,3%",Adam Krzysztoń,"ul. Mickiewicza 2, 37-100 Łańcut",RLA
+podkarpackie,leski,25 315,835 km2,30 osób/km2,"22,0%",Andrzej Olesiuk,"Rynek 1, 38-600 Lesko",RLS
+podkarpackie,leżajski,66 445,584 km2,114 osób/km2,"29,8%",Marek Śliż,"ul. Kopernika 8, 37-300 Leżajsk",RLE
+podkarpackie,lubaczowski,52 240,1 308 km2,40 osób/km2,"34,3%",Barbara Broź,"ul. Jasna 1, 37-600 Lubaczów",RLU
+podkarpackie,mielecki,132 723,881 km2,151 osób/km2,"48,2%",Stanisław Lonczak," ul. Wyspiańskiego 6, 39-300 Mielec",RMI
+podkarpackie,niżański,63 406,786 km2,81 osób/km2,"35,6%",Robert Bednarz,"ul. Plac Wolności 2, 37-400 Nisko",RNI
+podkarpackie,przemyski,70 933,1 211 km2,59 osób/km2,Jan Pączek,"pl. Dominikański 3, 37-700 Przemyśl",RPR
+podkarpackie,przeworski,75 586,698 km2,108 osób/km2,"26,7%",Zbigniew Kiszka,"ul. Jagiellońska 10, 37-200 Przeworsk",RPZ
+podkarpackie,ropczycko-sędziszowski,74 013,548 km2,135 osób/km2,"31,2%",Witold Darłak,"ul. Konopnickiej 5, 39-100 Ropczyce",RRS
+podkarpackie,rzeszowski,176 357,1 145 km2,154 osób/km2,"11,8%",Józef Jodłowski,"ul. Grunwaldzka 15, 35-959 Rzeszów",RZE
+podkarpackie,sanocki,89 356,1 156 km2,77 osób/km2,"47,2%",Roman Konieczny,"Rynek 1, 38-500 Sanok",RSA
+podkarpackie,stalowowolski,100 446,832 km2,121 osób/km2,"60,6%",Janusz Zarzeczny,"ul. Podleśna 15, 37-450 Stalowa Wola",RST
+podkarpackie,strzyżowski,59 025,503 km2,117 osób/km2,"14,0%",Robert Godek,"ul. Przecławczyka 15, 38-100 Strzyżów",RSR
+podkarpackie,tarnobrzeski,50 729,521 km2,97 osób/km2,"23,9%",Paweł Bartoszek,"ul. 1 Maja 4, 39-400 Tarnobrzeg",RTA
+podlaskie,augustowski,54 245,1 659 km2,33 osób/km2,"55,6%",Jarosław Szlaszyński,"ul. 3 Maja 29, 16-300 Augustów",BAU
+podlaskie,białostocki,158 639,2 976 km2,53 osób/km2,"38,5%",Antoni Pełkowski,"ul. Borsucza 2, 15-569 Białystok",BIA
+podlaskie,bielski,50 268,1 385 km2,36 osób/km2,"52,3%",Sławomir Jerzy Snarski,"ul. Mickiewicza 46, 17-100 Bielsk Podlaski",BBI
+podlaskie,grajewski,44 011,968 km2,45 osób/km2,"55,9%",Zygmunt Kruszyński,"ul. Strażacka 6B, 19-200 Grajewo",BGR
+podlaskie,hajnowski,38 527,1 624 km2,24 osób/km2,"50,5%",Mirosław Romaniuk,"ul. A. Zina 1, 17-200 Hajnówka",BHA
+podlaskie,kolneński,35 510,940 km2,38 osób/km2,"32,7%",Stanisław Wiszowaty,"ul. Wojska Polskiego 18, 18-500 Kolno",BKL
+podlaskie,łomżyński,49 575,1 355 km2,37 osób/km2,"7,5%",Elzbieta Parzych,"ul. Szosa Zambrowska 1/27, 18-400 Łomża",BLM
+podlaskie,moniecki,37 203,1 382 km2,27 osób/km2,"35,6%",Andrzej Daniszewski,"ul. Słowackiego 5a, 19-100 Mońki",BMN
+podlaskie,sejneński,18 527,855 km2,22 osób/km2,"27,0%",Piotr Alszko,"ul. 1 Maja 1, 16-500 Sejny",BSE
+podlaskie,siemiatycki,40 413,1 459 km2,28 osób/km2,"35,8%",Jan Zalewski,"ul. Legionów Piłsudskiego 3, 17-300 Siemiatycze",BSI
+podlaskie,sokólski,60 908,2 055 km2,30 osób/km2,"41,7%",Piotr Rećko,"ul. Piłsudskiego 8, 16-100 Sokółka",BSK
+podlaskie,suwalski,34 591,1 307 km2,26 osób/km2,Szczepan Ołdakowski,"ul. Świerkowa 60, 16-400 Suwałki",BSU
+podlaskie,wysokomazowiecki,53 120,1 289 km2,41 osób/km2,"32,6%",Bogdan Zieliński,"ul. Ludowa 15a, 18-200 Wysokie Mazowieckie",BWM
+podlaskie,zambrowski,41 246,733 km2,56 osób/km2,"50,4%",Robert Maciej Rosiak,"ul. Fabryczna 3, 18-300 Zambrów",BZA
+pomorskie,bytowski,76 302,2 192 km2,35 osób/km2,"35,7%",Leszek Waszkiewicz,"ul. Ks.dr. Bolesława Domańskiego 2, 77-100 Bytów",GBY
+pomorskie,chojnicki,95 759,1 364 km2,70 osób/km2,"57,5%",Stanisław Skaja,"ul. 31 Stycznia 56, 89-600 Chojnice",GCH
+pomorskie,człuchowski,52 978,1 575 km2,34 osób/km2,"44,9%",Aleksander Gappa,"ul. Wojska Polskiego 1, 77-300 Człuchów",GCZ
+pomorskie,gdański,132 802,794 km2,167 osób/km2,"27,6%",Stefan Skonieczny,"ul. Wojska Polskiego 16, 83-000 Pruszcz Gdański",GDA
+pomorskie,kartuski,154 695,1 121 km2,138 osób/km2,"17,2%",Janina Kwiecień,"ul. Dworcowa 1, 83-300 Kartuzy",GKA
+pomorskie,kościerski,72 201,1 166 km2,62 osób/km2,"33,4%",Alicja Żurawska,"ul. 3 Maja 9c, 83-400 Kościerzyna",GKS
+pomorskie,kwidzyński,79 941,835 km2,96 osób/km2,"57,0%",Jerzy Godzik,"ul. Kościuszki 29b, 82-500 Kwidzyn",GKW
+pomorskie,lęborski,63 576,708 km2,90 osób/km2,"59,6%",Teresa Ossowska-Szara,"ul. Czołgistów 5, 84-300 Lębork",GLE
+pomorskie,malborski,60 438,494 km2,122 osób/km2,"67,5%",Mirosław Czapla,"pl. Słowiański 17, 82-200 Malbork",GMB
+pomorskie,nowodworski,33 513,674 km2,50 osób/km2,"31,5%",Zbigniew Ptak,"ul. Sikorskiego 23, 82-100 Nowy Dwór Gdański",GND
+pomorskie,pucki,92 154,581 km2,159 osób/km2,"42,4%",Jarosław Białk,"ul. Orzeszkowej 5, 84-100 Puck",GPU
+pomorskie,słupski,96 140,2 304 km2,42 osób/km2,"20,7%",Zdzisław Kołodziejski,"ul. Szarych Szeregów 14, 76-200 Słupsk",GSL
+pomorskie,starogardzki,124 979,1 345 km2,93 osób/km2,"49,3%",Leszek Burczyk,"ul. Kościuszki 17, 83-200 Starogard Gdański",GST
+pomorskie,sztumski,38 093,731 km2,52 osób/km2,"37,5%",Wojciech Cymerys,"ul. Mickiewicza 39, 82-400 Sztum",GSZ
+pomorskie,tczewski,110 865,697 km2,159 osób/km2,"65,4%",Mirosław Augustyn,"ul. Piaskowa 2, 83-110 Tczew",GTC
+pomorskie,wejherowski,230 301,1 285 km2,179 osób/km2,"58,8%",Gabriela Lisius,"ul. 3 Maja 4, 84-200 Wejherowo",GWE
+śląskie,będziński,144 192,364 km2,396 osób/km2,"75,9%",Arkadiusz Watoła,"ul. Sączewskiego 6, 42-500 Będzin",SBE
+śląskie,bielski,165 829,459 km2,362 osób/km2,"27,8%",Andrzej Płonka,"ul. Piastowska 40, 43-300 Bielsko-Biała",SBI
+śląskie,bieruńsko-lędziński,59 511,158 km2,376 osób/km2,"78,2%",Bernard Bednorz,"ul. św. Kingi 1, 43-155 Bieruń","STY, SBL"
+śląskie,cieszyński,174 189,730 km2,239 osób/km2,"46,3%",Janusz Król,"ul. Bobrecka 29, 43-400 Cieszyn",SCI
+śląskie,częstochowski,131 333,1 522 km2,86 osób/km2,"12,1%",Krzysztof Smela,"ul. Sobieskiego 9, 42-200 Częstochowa",SCZ
+śląskie,gliwicki,113 125,664 km2,170 osób/km2,"55,1%",Waldemar Dombek,"ul. Zygmunta Starego 17, 44-100 Gliwice",SGL
+śląskie,kłobucki,81 720,889 km2,92 osób/km2,"21,0%",Henryk Kiepura,"Rynek im. Jana Pawła II 13, 42-100 Kłobuck",SKL
+śląskie,lubliniecki,74 665,822 km2,91 osób/km2,"37,3%",Joachim Smyła,"ul. Paderewskiego 7, 42-700 Lubliniec",SLU
+śląskie,mikołowski,100 137,233 km2,430 osób/km2,"86,4%",Henryk Jaroszek,"ul. Żwirki i Wigury 4A, 43-190 Mikołów",SMI
+śląskie,myszkowski,67 310,479 km2,140 osób/km2,"55,7%",Piotr Kołodziejczyk,"ul. Pułaskiego 6, 42-300 Myszków",SMY
+śląskie,pszczyński,110 786,471 km2,235 osób/km2,"23,9%",Barbara Bandoła,"ul. 3 Maja 10, 43-200 Pszczyna",SPS
+śląskie,raciborski,98 954,544 km2,182 osób/km2,"59,8%",Ryszard Winiarski,"Plac Okrzei 4, 47-400 Racibórz",SRC
+śląskie,rybnicki,76 430,224 km2,342 osób/km2,"37,6%",Damian Mrowiec,"ul. 3 Maja 31, 44-200 Rybnik",SRB
+śląskie,tarnogórski,139 101,644 km2,216 osób/km2,"68,2%",Krystyna Kosmala,"ul. Karłuszowiec 5, 42-600 Tarnowskie Góry",STA
+śląskie,wodzisławski,149 849,287 km2,523 osób/km2,"66,5%",Ireneusz Serwotka,"ul. Bogumińska 2, 44-300 Wodzisław Śląski",SWD
+śląskie,zawierciański,111 041,1 002 km2,111 osób/km2,"63,8%",Krzysztof Wrona,"ul. Sienkiewicza 34, 42-400 Zawiercie",SZA
+śląskie,żywiecki,148 494,1 040 km2,143 osób/km2,"21,0%",Andrzej Kalata,"ul. Krasińskiego 13, 34-300 Żywiec",SZY
+świętokrzyskie,buski,67 538,968 km2,70 osób/km2,"23,0%",Jerzy Kolarz,"ul. Mickiewicza 15, 28-100 Busko-Zdrój",TBU
+świętokrzyskie,jędrzejowski,80 682,1 257 km2,64 osób/km2,"30,1%",Edmund Kaczmarek,"ul. 11 Listopada 83, 28-300 Jędrzejów",TJE
+świętokrzyskie,kazimierski,31 537,422 km2,75 osób/km2,"19,8%",Jan Nowak,"ul. Kościuszki 12, 28-500 Kazimierza Wielka",TKA
+świętokrzyskie,kielecki,211 751,2 246 km2,94 osób/km2,"6,6%",Michał Godowski,"al. IX Wieków Kielc 3, 25-516 Kielce",TKI
+świętokrzyskie,konecki,73 236,1 140 km2,64 osób/km2,"31,6%",Bogdan Soboń,"ul. Staszica 2, 26-200 Końskie",TKN
+świętokrzyskie,opatowski,48 144,911 km2,53 osób/km2,"20,5%",Bogusław Włodarczyk,"ul. Sienkiewicza 30, 27-500 Opatów",TOP
+świętokrzyskie,ostrowiecki,99 429,617 km2,161 osób/km2,"68,6%",Zbigniew Duda,"ul. Iłżecka 37, 27-400 Ostrowiec Świętokrzyski",TOS
+świętokrzyskie,pińczowski,36 509,613 km2,60 osób/km2,"30,0%",Zbigniew Kierkowski,"ul. Zacisze 5, 28-400 Pińczów",TPI
+świętokrzyskie,sandomierski,71 362,676 km2,106 osób/km2,"35,8%",Stanisław Masternak,"ul. Mickiewicza 34, 27-600 Sandomierz",TSA
+świętokrzyskie,skarżyski,67 647,395 km2,171 osób/km2,"72,2%",Jerzy Żmijewski,"ul. Konarskiego 20, 26-110 Skarżysko-Kamienna",TSK
+świętokrzyskie,starachowicki,83 109,523 km2,159 osób/km2,"58,5%",Danuta Krępa,"ul. Władysława Borkowskiego 4, 27-200 Starachowice",TST
+świętokrzyskie,staszowski,68 106,925 km2,74 osób/km2,"34,7%",Michał Skotnicki,"ul. Piłsudskiego 7, 28-200 Staszów",TSZ
+świętokrzyskie,włoszczowski,42 740,908 km2,47 osób/km2,"22,9%",Jerzy Suliga,"ul. Wiśniowa 10, 29-100 Włoszczowa",TLW
+warmińsko-mazurskie,bartoszycki,52 308,1 307 km2,40 osób/km2,"56,2%",Wojciech Prokocki,"ul. Grota Roweckiego 1, 11-200 Bartoszyce",NBA
+warmińsko-mazurskie,braniewski,37 028,1 202 km2,31 osób/km2,"53,3%",Leszek Dziąg,"pl. Piłsudskiego 2, 14-500 Braniewo",NBR
+warmińsko-mazurskie,działdowski,61 171,954 km2,64 osób/km2,"44,7%",Marian Janicki,NDZ
+warmińsko-mazurskie,elbląski,53 899,1 416 km2,38 osób/km2,"29,8%",Sławomir Jezierski,"ul. Saperów 14a, 82-300 Elbląg",NEB
+warmińsko-mazurskie,ełcki,88 189,1 113 km2,79 osób/km2,"66,1%",Marek Chojnowski,"ul. Piłsudskiego 4, 19-300 Ełk",NEL
+warmińsko-mazurskie,giżycki,53 484,1 120 km2,48 osób/km2,"57,6%",Mirosław Dariusz Drzażdżewski,"al. 1 Maja 14, 11-500 Giżycko",NGI
+warmińsko-mazurskie,gołdapski,24 738,772 km2,32 osób/km2,"50,3%",Andrzej Ciołek,"ul. Krótka 1, 19-500 Gołdap",NGO
+warmińsko-mazurskie,iławski,89 670,1 385 km2,65 osób/km2,"57,5%",Marek Polański,"ul. Gen. Wł. Andersa 2a, 14-200 Iława",NIL
+warmińsko-mazurskie,kętrzyński,56 647,1 213 km2,47 osób/km2,"57,2%",Ryszard Niedziółka,"pl. Grunwaldzki 1, 11-400 Kętrzyn",NKE
+warmińsko-mazurskie,lidzbarski,37 962,925 km2,41 osób/km2,"60,0%",Jan Harhaj,"ul. Wyszyńskiego 37, 11-100 Lidzbark Warmiński",NLI
+warmińsko-mazurskie,mrągowski,47 266,1 065 km2,44 osób/km2,"51,3%",Antoni Karaś,"ul. Królewiecka 60a, 11-700 Mrągowo",NMR
+warmińsko-mazurskie,nidzicki,30 323,961 km2,32 osób/km2,"43,6%",Grzegorz Napiwodzki,"ul. Traugutta 23, 13-100 Nidzica",NNI
+warmińsko-mazurskie,nowomiejski,41 829,694 km2,60 osób/km2,"25,6%",Ewa Dembek,"Rynek 1, 13-300 Nowe Miasto Lubawskie",NNM
+warmińsko-mazurskie,olecki,31 863,874 km2,36 osób/km2,"68,5%",Marian Świerszcz,"ul. Kolejowa 32, 19-400 Olecko",NOE
+warmińsko-mazurskie,olsztyński,130 299,2 838 km2,46 osób/km2,"35,1%",Małgorzata Chyziak,"pl. Józefa Bema 5, 10-516 Olsztyn",NOL
+warmińsko-mazurskie,ostródzki,98 667,1 766 km2,56 osób/km2,"50,3%",Włodzimierz Brodiuk,"ul. Jana III Sobieskiego 5, 14-100 Ostróda",NOS
+warmińsko-mazurskie,piski,51 796,1 775 km2,29 osób/km2,"59,2%",Andrzej Nowicki,"Warszawska 1, 12-200 Pisz",NPI
+warmińsko-mazurskie,szczycieński,66 390,1 933 km2,34 osób/km2,"41,1%",Jarosław Matłach,"ul. H. Sienkiewicza 1, 12-100 Szczytno",NSZ
+warmińsko-mazurskie,węgorzewski,20 703,693 km2,30 osób/km2,"49,2%",Halina Faj,"ul. 3 Maja 17B, 11-660 Węgorzewo",NWE
+wielkopolskie,chodzieski,45 051,685 km2,66 osób/km2,"56,5%",Julian Hermaszczuk,"ul. Wiosny Ludów 1, 64-800 Chodzież",PCH
+wielkopolskie,czarnkowsko-trzcianecki,83 182,1 806 km2,46 osób/km2,"47,2%",Tadeusz Teterus,"ul. Rybaki 3, 64-700 Czarnków",PCT
+wielkopolskie,gnieźnieński,140 979,1 255 km2,112 osób/km2,"65,0%",Beata Tarczyńska,"ul. Jana Pawła II 9/10, 62-200 Gniezno",PGN
+wielkopolskie,gostyński,73 223,810 km2,90 osób/km2,"42,0%",Robert Marcinkowski,"ul. Wrocławska 256, 63-800 Gostyń",PGS
+wielkopolskie,grodziski,51 489,642 km2,80 osób/km2,"37,8%",Mariusz Zgaiński,"ul. Żwirki i Wigury 1, 62-065 Grodzisk Wielkopolski",PGO
+wielkopolskie,jarociński,69 624,587 km2,119 osób/km2,"39,7%",Józef Grobelny,"al. Niepodległości 10/12, 63-200 Jarocin",PJA
+wielkopolskie,kaliski,82 052,1 160 km2,71 osób/km2,"1,9%",Krzysztof Nosal,"pl. św. Józefa 5, 62-800 Kalisz",PKA
+wielkopolskie,kępiński,55 792,608 km2,92 osób/km2,"26,7%",Witold Jankowski,"ul. Kościuszki 5, 63-600 Kępno",PKE
+wielkopolskie,kolski,81 197,1 011 km2,80 osób/km2,"37,7%",Wieńczysław Oblizajek,"ul. Sienkiewicza 21/23, 62-600 Koło",PKL
+wielkopolskie,koniński,128 650,1 578 km2,82 osób/km2,"14,4%",Stanisław Bielik,"Al. 1 Maja 9, 62-510 Konin",PKN
+wielkopolskie,kościański,77 031,722 km2,107 osób/km2,"46,6%",Bernard Turski,"al. Kościuszki 22, 64-000 Kościan",PKS
+wielkopolskie,krotoszyński,74 709,714 km2,105 osób/km2,"60,2%",Stanisław Szczotka,"ul. 56 Pułku Piechoty Wlkp.10, 63-700 Krotoszyn",PKR
+wielkopolskie,leszczyński,60 254,806 km2,75 osób/km2,"9,0%",Jarosław Wawrzyniak,"pl. Kościuszki 4b, 64-100 Leszno",PLE
+wielkopolskie,międzychodzki,35 540,736 km2,48 osób/km2,"45,9%",Julian Mazurek,"ul. 17 Stycznia 143, 64-400 Międzychód",PMI
+wielkopolskie,nowotomyski,75 150,1 014 km2,74 osób/km2,"48,4%",Ireneusz Kozecki,"ul. Poznańska 33, 64-300 Nowy Tomyśl",PNT
+wielkopolskie,obornicki,58 730,711 km2,83 osób/km2,"51,7%",Adam Olejnik,"ul. 11 Listopada 2a, 64-600 Oborniki",POB
+wielkopolskie,ostrowski,158 154,1 160 km2,136 osób/km2,"53,7%",Paweł Rajski,"al. Powstańców Wlkp. 16, 63-400 Ostrów Wielkopolski",POS
+wielkopolskie,ostrzeszowski,54 494,773 km2,71 osób/km2,"33,7%",Lech Janicki,"ul. Zamkowa 31, 63-500 Ostrzeszów",POT
+wielkopolskie,pilski,130 059,1 268 km2,103 osób/km2,"65,1%",Eligiusz Komarowski,"al. Niepodległości 33/35, 64-920 Piła",PP
+wielkopolskie,pleszewski,61 082,713 km2,86 osób/km2,"28,9%",Maciej Wasielewski,"ul. Poznańska 79, 63-300 Pleszew",PPL
+wielkopolskie,poznański,451 991,1 900 km2,238 osób/km2,"38,4%",Jan Grabkowski,"ul. Jackowskiego 18/20, 60-509 Poznań","POZ, PZ"
+wielkopolskie,rawicki,58 495,554 km2,106 osób/km2,"48,6%",Adam Sperzyński,"Rynek 17, 63-900 Rawicz",PRA
+wielkopolskie,słupecki,57 108,838 km2,68 osób/km2,"28,7%",Mariusz Roga,"ul. Poznańska 20, 62-400 Słupca",PSL
+wielkopolskie,średzki,60 049,624 km2,96 osób/km2,"39,7%",Marcin Bednarz,"ul. Daszyńskiego 5, 63-000 Środa Wielkopolska",PSR
+wielkopolskie,śremski,61 018,574 km2,106 osób/km2,"57,5%",Zenon Jahns,"ul. Mickiewicza 17, 63-100 Śrem",PSE
+wielkopolskie,szamotulski,91 677,1 119 km2,82 osób/km2,"48,5%",Józef Kwaśniewicz,"ul. Wojska Polskiego 4, 64-500 Szamotuły",PSZ
+wielkopolskie,turecki,80 795,929 km2,87 osób/km2,"34,8%",Mariusz Seńko,"ul. Kaliska 59, 62-700 Turek",PTU
+wielkopolskie,wągrowiecki,68 897,1 040 km2,66 osób/km2,"47,0%",Tomasz Kranc,"ul. Kościuszki 15, 62-100 Wągrowiec",PWA
+wielkopolskie,wolsztyński,56 584,680 km2,83 osób/km2,"24,2%",Janusz Frąckowiak,"ul. 5 Stycznia 5, 64-200 Wolsztyn",PWL
+wielkopolskie,wrzesiński,78 261,704 km2,111 osób/km2,"52,3%",Dionizy Jaśniewicz,"ul. Chopina 10, 62-300 Września",PWR
+wielkopolskie,złotowski,67 063,1 660 km2,40 osób/km2,"49,9%",Ryszard Goławski,"al. Piasta 32, 77-400 Złotów",PZL
+zachodniopomorskie,białogardzki,44 181,845 km2,52 osób/km2,"62,5%",Tomasz Hynda,"plac Wolności 16-17, 78-200 Białogard",ZBI
+zachodniopomorskie,choszczeński,44 205,1 328 km2,33 osób/km2,"48,0%",Adam Andriaszkiewicz,"ul. Nadbrzeżna 2, 73-200 Choszczno",ZCH
+zachodniopomorskie,drawski,53 245,1 764 km2,30 osób/km2,"61,9%",Stanisław Kuczyński,"pl. Elizy Orzeszkowej 3, 78-500 Drawsko Pomorskie",ZDR
+zachodniopomorskie,goleniowski,81 189,1 615 km2,50 osób/km2,"53,2%",Tomasz Kulinicz,"ul. Dworcowa 1, 72-100 Goleniów",ZGL
+zachodniopomorskie,gryficki,56 216,1 021 km2,55 osób/km2,"50,8%",Kazimierz Sać,"pl. Zwycięstwa 39, 72-300 Gryfice",ZGY
+zachodniopomorskie,gryfiński,76 713,1 869 km2,41 osób/km2,"45,4%",Wojciech Konarski,"ul. Sprzymierzonych 4, 74-100 Gryfino",ZGR
+zachodniopomorskie,kamieński,43 950,1 007 km2,44 osób/km2,"52,8%",Józef Malec,"ul. Wolińska 7B, 72-400 Kamień Pomorski",ZKA
+zachodniopomorskie,kołobrzeski,76 562,725 km2,106 osób/km2,"58,4%",Tomasz Tamborski,"pl. Ratuszowy 1, 78-100 Kołobrzeg",ZKL
+zachodniopomorskie,koszaliński,64 459,1 653 km2,39 osób/km2,"21,8%",Marian Hermanowicz,"ul. Racławicka 13, 75-620 Koszalin",ZKO
+zachodniopomorskie,łobeski,33 172,1 065 km2,31 osób/km2,"52,5%",Edward Arys,"ul. M. Konopnickiej 41, 73-150 Łobez",ZLO
+zachodniopomorskie,myśliborski,61 949,1 182 km2,52 osób/km2,"59,1%",Danuta Patkowska,"ul. ks. Michała Sopoćki 2, 74-300 Myślibórz",ZMY
+zachodniopomorskie,policki,86 489,665 km2,130 osób/km2,"59,1%",Andrzej Bednarek,"ul. Tanowska 8, 72-010 Police",ZPL
+zachodniopomorskie,pyrzycki,36 239,726 km2,50 osób/km2,"42,3%",Stanisław Stępień,"ul.Lipiańska 4, 74-200 Pyrzyce",ZPY
+zachodniopomorskie,sławieński,52 695,1 043 km2,51 osób/km2,"47,4%",Wojciech Wiśniowski,"ul. Stefanii Sempołowskiej 2a, 76-100 Sławno",ZSL
+zachodniopomorskie,stargardzki,118 947,1 520 km2,78 osób/km2,"66,2%",Iwona Wiśniewska,"ul. Skarbowa 1, 73-110 Stargard Szczeciński",ZST
+zachodniopomorskie,świdwiński,42 996,1 093 km2,39 osób/km2,"49,7%",Mirosław Majka,"ul. Mieszka I 16, 78-300 Świdwin",ZSD
+zachodniopomorskie,szczecinecki,72 393,1 765 km2,41 osób/km2,"63,4%",Krzysztof Lis,ZSZ
+zachodniopomorskie,wałecki,49 705,1 415 km2,35 osób/km2,"60,6%",Bogdan Wankiewicz,"ul. Dąbrowskiego 17, 78-600 Wałcz",ZWA
