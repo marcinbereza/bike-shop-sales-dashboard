@@ -70,14 +70,14 @@ Fundamentem jest wielowarstwowy silnik obliczeniowy oparty na tabelach rozłącz
 - **Średnia krocząca**: wybór liczby jej dni.
 
 <p align="center">
-  <img src="img/filter_panel.png" width="33%" alt="" />
-  <img src="img/choose_KPI.png" width="33%" alt="" />
-  <img src="image.png" width="33%" alt="" />
+  <img src="img/filter_panel.png" width="30%" alt="" />
+  <img src="img/choose_KPI.png" width="30%" alt="" />
+  <img src="img/filter_KPI.png" width="30%" alt="" />
 </p>
 
 <p align="center">
-  <img src="image-1.png" width="49%" alt="" />
-  <img src="image-2.png" width="49%" alt="" />
+  <img src="img/select_date.png" width="40%" alt="" />
+  <img src="img/select_date_past.png" width="49%" alt="" />
 </p>
 
 
@@ -91,6 +91,6 @@ Oprócz silnika obliczeniowego, raport wspiera użytkownika w identyfikacji zdar
 Całość została osadzona na tle SVG, co eliminuje opóźnienia w renderowaniu przy intensywnej interakcji z filtrami.
 
 <p align="center">
-  <img src="image-3.png" width="49%" alt="products etl code" />
-  <img src="image-4.png" width="49%" alt="products etl" />
+  <img src="img/limit_date.png" width="40%" alt="products etl code" />
+  <img src="img/color_delta.png" width="49%" alt="products etl" />
 </p>
