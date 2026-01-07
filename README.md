@@ -91,6 +91,30 @@ Oprócz silnika obliczeniowego, raport wspiera użytkownika w identyfikacji zdar
 Całość została osadzona na tle SVG, co eliminuje opóźnienia w renderowaniu przy intensywnej interakcji z filtrami.
 
 <p align="center">
-  <img src="img/limit_date.png" width="40%" alt="products etl code" />
-  <img src="img/color_delta.png" width="49%" alt="products etl" />
+  <img src="img/limit_date.png" width="40%" alt="limit date" />
+  <img src="img/color_delta.png" width="49%" alt="color delta" />
 </p>
+
+
+## Dashboard – co mówią nam dane?
+- Przejście od dziennego przychodu 200 zł (styczeń 2023) do rekordowych 518 tys. zł. (czerwiec 2025) pokazuje ogromną skalowalność modelu biznesowego. Dodatkowo widzimy wyraźnie zwiększone zapotrzebowanie w lecie, co wskazuje na potrzebę planowania zapasów.
+- Rowery stanowią jedynie 1.34% wolumenu sprzedaży, a generują 41% całkowitego zysku. Akcesoria za to budują obrót (4114 vs 302 tys). Wartość koszyka z rowerem wyniosła 23tys. zł. w porównaniu bez niego 980 zł.
+- Sklep internetowy generuje prawie dwukrotnie więcej zamówień (53tys. vs 28.5tys) przy dwukrotnie mniejszej średniej wartości koszyka (1240zł vs 2440zł).
+- Klient stacjonarny kupuje średnio 5.5 produktu, maks. 8.5, co sugeruje dużą skuteczność sprzedaży bezpośredniej. Zakupy online składają się z 3 artykułów i w 1/3 przypadków zawierają narzędzia. Obydwa kanały sprzedaży celują w zapięcia i oświetlenie.
+
+<p align="center">
+  <img src="img/dashboard_sales.png" width="49%" alt="dashboard total sales" />
+  <img src="img/dashboard_orders.png" width="49%" alt="dashboard total number of orders" />
+</p>
+
+## Dashboard – schyłek sezonu 14 września 2025
+- **Stabilizacja z tendencją spadkową**: dane z ostatniego kwartału wskazują na nasycenie rynku. Kluczowy popyt sezonowy został zaspokojony, co widać najpierw w regionach turystycznych.
+- **Zmiana struktury przychodów**: notujemy spadek zysków z rowerów o 9.6%. Rekompensowany jest on jednak przez 8.4% wzrost wolumenu akcesoriów.
+- **Wskaźniki koszyka**: spadek średniej wartości koszyka przy wzroście liczby sprzedanych sztuk potwierdza model: "Rower kupiony wcześniej, doposażony teraz".
+- **Rekomendacja operacyjna**: ze względu na realizację tylko -0,5% dynamiki kwartalnej przy dużym przesunięciu w stronę nisko marżowych akcesoriów, zaleca się redukcję zapasów magazynowych, co pozwoli na redukcję kosztów przed sezonem zimowym
+
+<p align="center">
+  <img src="img/dashboard_sales_3M.png" width="49%" alt="products etl code" />
+  <img src="img/dashboard_orders_3M.png" width="49%" alt="products etl" />
+</p>
+
