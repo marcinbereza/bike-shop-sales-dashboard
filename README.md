@@ -35,14 +35,10 @@ Proces ten wymagał kilku etapów, aby od podstaw zbudować wiarygodne i spójne
     </ul>
 </div>
 
-<div style="display: flex; align-items: center; gap: 2em">
-    <div style="width:70%">
-        <img src="img/products_etl_code.png" alt="products etl code"/>
-    </div>
-    <div style="width:30%">
-        <img src="img/products_etl.png" alt="products etl"/>
-    </div>
-</div>
+<p align="center">
+  <img src="img/products_etl_code.png" width="69%" alt="products etl code" />
+  <img src="img/products_etl.png" width="30%" alt="products etl" />
+</p>
 
 ## Model danych
 Schemat danych powstał już na etapie ich generowania, dzięki czemu połączenia relacjami w model gwiazdy było bezproblemowe.
