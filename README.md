@@ -12,9 +12,9 @@ Kluczowe aspekty analityczne:
 Główny nacisk położono na aspekt czasowy, umożliwiając analizę w ujęciu miesięcznym, kwartalnym i rocznym oraz swobodne przesuwanie analizowanego okna czasowego.
 
 Kluczowe dla sukcesu było pozyskanie danych o:
-- Rzeczywistym asortymencie sklepu rowerowego ([sprint-rower.pl](sprint-rower.pl)).
-- Podziale administracyjnym województw i powiatów ([polskawliczbach.pl](polskawliczbach.pl)).
-- Najpopularniejszych imionach i nazwiskach w Polsce ([dane.gov.pl/pl/dataset](dane.gov.pl/pl/dataset))
+- Rzeczywistym asortymencie sklepu rowerowego ([sprint-rower.pl](https://sprint-rowery.pl/)).
+- Podziale administracyjnym województw i powiatów ([polskawliczbach.pl](https://www.polskawliczbach.pl/)).
+- Najpopularniejszych imionach i nazwiskach w Polsce ([dane.gov.pl/pl/dataset](https://dane.gov.pl/pl/dataset))
 
 ## Przygotowanie danych
 Proces ten wymagał kilku etapów, aby od podstaw zbudować wiarygodne i spójne środowisko danych, które nie było dostępne w gotowych zbiorach:
