@@ -65,7 +65,7 @@ Fundamentem jest wielowarstwowy silnik obliczeniowy oparty na tabelach rozłącz
     - Liczby sprzedanych produktów,
     - Średniej liczby produktów w koszyku,
     - Średniej wartości koszyka.
-    - Segmentacja koszyka: filtrowanie koszyków po obecności roweru oraz kanale sprzedaży, zaszyte w miarach.
+- **Segmentacja koszyka**: filtrowanie koszyków po obecności roweru oraz kanale sprzedaży, zaszyte w miarach.
 - **Dwustopniowe Time Intelligence**: możliwość wybrania szerokości okna czasowego (1M, 3M, MTD, itd.), oraz precyzyjnego umiejscowienie go w czasie
 - **Średnia krocząca**: wybór liczby jej dni.
 
